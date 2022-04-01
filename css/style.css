@@ -65,6 +65,7 @@ button {
   border-radius: 8px;
   cursor: pointer;
   transition: 0.3s ease-in-out;
+  border: 1px solid #0059F7;
 }
 .header-btn:hover {
   background-color: transparent;
